@@ -1,4 +1,4 @@
-# Type converrsion  
+# Type conversion  
 
 # converting of one datatype to another 
 
