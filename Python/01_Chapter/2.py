@@ -12,3 +12,9 @@
 # si = principle*time*rate/100
 
 
+
+int1 = 20
+float1 = 20.10
+str1 = "hello world"
+bool1 = False
+
